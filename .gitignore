@@ -1,0 +1,8 @@
+.env*
+*.pem
+*key*
+secrets/
+*.pdf
+*.png
+*.jpg
+*.mp4
